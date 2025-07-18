@@ -1,6 +1,6 @@
 # Symbolic Music Generation using LLMs
 
-This repository accompanies the paper "Large Language Models' Internal Perception of Symbolic Music". It contains code to generate symbolic (MIDI) music data using a GPT-based language model conditioned on musical genre and style.
+This repository accompanies the paper "[Large Language Models' Internal Perception of Symbolic Music](https://arxiv.org/abs/2507.12808)". It contains code to generate symbolic (MIDI) music data using a GPT-based language model conditioned on musical genre and style.
 
 ## Overview
 
